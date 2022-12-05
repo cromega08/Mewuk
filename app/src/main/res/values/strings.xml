@@ -1,0 +1,56 @@
+<resources>
+	<string name="app_name">Mewuk</string>
+	<string name="numbers">Numbers</string>
+	<string name="family">Family Members</string>
+	<string name="colors">Colors</string>
+	<string name="phrases">Phrases</string>
+	<string name="to_left_arrow">&#8606;</string>
+	<string name="to_right_arrow">&#8608;</string>
+	<string name="back">back</string>
+	<string-array name="list_numbers">
+		<item>one~lutti</item>
+		<item>two~otiiko</item>
+		<item>three~tolookosu</item>
+		<item>four~oyysia</item>
+		<item>five~massoka</item>
+		<item>six~temmokka</item>
+		<item>seven~kenekaku</item>
+		<item>eight~kawinta</item>
+		<item>nine~wo\'e</item>
+		<item>ten~na\'aacha</item>
+	</string-array>
+	<string-array name="list_family">
+		<item>father~әpә</item>
+		<item>mother~әṭa</item>
+		<item>son~angsi</item>
+		<item>daughter~tune</item>
+		<item>older\nbrother~taachi</item>
+		<item>younger\nbrother~chalitti</item>
+		<item>older\nsister~teṭe</item>
+		<item>younger\nsister~kolliti</item>
+		<item>grandmother~ama</item>
+		<item>grandfather~paapa</item>
+	</string-array>
+	<string-array name="list_colors">
+		<item>red~weṭeṭṭi</item>
+		<item>green~chokokki</item>
+		<item>brown~ṭakaakki</item>
+		<item>gray~ṭopoppi</item>
+		<item>black~kululli</item>
+		<item>white~kelelli</item>
+		<item>dusty\nyellow~ṭopiisә</item>
+		<item>mustard\nyellow~chiwiiṭә</item>
+	</string-array>
+	<string-array name="list_phrases">
+		<item>Where are\nyou going?~minto\nwuksus</item>
+		<item>What is\nyour name?~tinnә\noyaase\'nә</item>
+		<item>My name\nis...~oyaaset...</item>
+		<item>How are\nyou feeling?~michәksәs</item>
+		<item>I\'m feeling\ngood.~kuchi achit</item>
+		<item>Are you\ncoming?~әәnәs\'aa?</item>
+		<item>Yes, I\'m\ncoming.~hәә’әәnәm</item>ll
+		<item>I\'m coming.~әәnәm</item>
+		<item>Let\'s go.~yoowutis</item>
+		<item>Come here.~әnni\'nem</item>
+	</string-array>
+</resources>
