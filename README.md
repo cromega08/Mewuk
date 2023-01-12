@@ -2,6 +2,8 @@
 
 Android app that contains begginer translations for Miwok language.
 
+- **NOTE**: Application from Android for begginers tutorials in Coursera.
+
 ## Tech Stack
 
 - **Platform**: Android.
